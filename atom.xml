@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://steven-zyc.github.io/</id>
     <title>张彦诚的blog</title>
-    <updated>2020-03-29T05:09:16.525Z</updated>
+    <updated>2020-03-31T15:05:47.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://steven-zyc.github.io/"/>
     <link rel="self" href="https://steven-zyc.github.io//atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://steven-zyc.github.io//images/avatar.png</logo>
     <icon>https://steven-zyc.github.io//favicon.ico</icon>
     <rights>All rights reserved 2020, 张彦诚的blog</rights>
+    <entry>
+        <title type="html"><![CDATA[终于等到你，Microsoft To Do!]]></title>
+        <id>https://steven-zyc.github.io//post/zhong-yu-deng-dao-ni-microsoft-to-do</id>
+        <link href="https://steven-zyc.github.io//post/zhong-yu-deng-dao-ni-microsoft-to-do">
+        </link>
+        <updated>2020-03-31T15:05:20.000Z</updated>
+        <content type="html"><![CDATA[<p>终于等到你，Microsoft To Do!</p>
+<pre><code>   Microsoft To-Do 是一个轻量和智能的待办清单去帮助你更轻松地计划每一天。
+
+  两年前，微软收购了 Wunderlist，而前些时间，他们交出了 Microsoft To-Do 这份答卷。软件界面极简，是微软的一贯风格。功能上它也在试图做到尽可能的简洁。</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://steven-zyc.github.io//post/hello-gridea</id>
