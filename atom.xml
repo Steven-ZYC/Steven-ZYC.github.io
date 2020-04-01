@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://steven-zyc.github.io/</id>
     <title>张彦诚的blog</title>
-    <updated>2020-04-01T03:15:26.754Z</updated>
+    <updated>2020-04-01T10:21:08.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://steven-zyc.github.io/"/>
     <link rel="self" href="https://steven-zyc.github.io//atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://steven-zyc.github.io//images/avatar.png</logo>
     <icon>https://steven-zyc.github.io//favicon.ico</icon>
     <rights>All rights reserved 2020, 张彦诚的blog</rights>
+    <entry>
+        <title type="html"><![CDATA[你好，四月！]]></title>
+        <id>https://steven-zyc.github.io//post/ni-hao-si-yue</id>
+        <link href="https://steven-zyc.github.io//post/ni-hao-si-yue">
+        </link>
+        <updated>2020-04-01T09:36:13.000Z</updated>
+        <content type="html"><![CDATA[<p>print('你好，四月！')</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VScode，真香？]]></title>
         <id>https://steven-zyc.github.io//post/vscodezhen-xiang</id>
@@ -24,9 +33,12 @@
 <p><strong>安装 VSCode</strong></p>
 <!-- more -->
 <p>安装过程很简单，和其他软件是一样。你可以访问官网地址<a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a>来安装 VSCode。</p>
-<p><strong>安装配置 Python 插件</strong></p>
+<p><strong>运行程序</strong></p>
 <!-- more -->
-<p>在 VSCode 中搜索 Python的扩展即可。</p>
+<p>打开VScode，我们可以看到界面十分整洁，而且还有新手引导教程（英文）。在左侧活动栏中，单击最后一个选项EXTENSIONS，可以搜索扩展（可以在vscode中下载中文扩展和python扩展哦）。</p>
+<p><strong>安装配置 Python扩展插件</strong></p>
+<!-- more -->
+<p>在 VSCode 中搜索 Python，单击[install]即可。中文扩展同理。</p>
 ]]></content>
     </entry>
     <entry>
