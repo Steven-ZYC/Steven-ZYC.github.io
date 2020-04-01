@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://steven-zyc.github.io/</id>
     <title>张彦诚的blog</title>
-    <updated>2020-04-01T10:50:58.826Z</updated>
+    <updated>2020-04-01T10:51:33.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://steven-zyc.github.io/"/>
     <link rel="self" href="https://steven-zyc.github.io//atom.xml"/>
@@ -16,7 +16,7 @@
         <link href="https://steven-zyc.github.io//post/ni-hao-si-yue">
         </link>
         <updated>2020-04-01T09:36:13.000Z</updated>
-        <content type="html"><![CDATA[<p>print('你好，四月！')
+        <content type="html"><![CDATA[<p>**print('你好，四月！')
 <a href="F:%5Ca6100%5C2020-4-1_DSC0016.JPG"></a></p>
 ]]></content>
     </entry>
