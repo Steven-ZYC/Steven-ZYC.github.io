@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://steven-zyc.github.io/</id>
     <title>张彦诚的blog</title>
-    <updated>2020-04-01T02:44:28.699Z</updated>
+    <updated>2020-04-01T02:58:11.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://steven-zyc.github.io/"/>
     <link rel="self" href="https://steven-zyc.github.io//atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://steven-zyc.github.io//images/avatar.png</logo>
     <icon>https://steven-zyc.github.io//favicon.ico</icon>
     <rights>All rights reserved 2020, 张彦诚的blog</rights>
+    <entry>
+        <title type="html"><![CDATA[VScode，真香？]]></title>
+        <id>https://steven-zyc.github.io//post/vscodezhen-xiang</id>
+        <link href="https://steven-zyc.github.io//post/vscodezhen-xiang">
+        </link>
+        <updated>2020-04-01T02:49:57.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>前言</strong></p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>前言</strong></p>
+<!-- more -->
+<p>我一直苦于pycharm写python不仅太复杂，而且还要收费。终于，经过我一番奇怪的操作，我找到了Visual Studio Code(VScode)这款开源编辑器。</p>
+<p><strong>安装 VSCode</strong></p>
+<!-- more -->
+<p>安装过程很简单，和其他软件是一样。你可以访问官网地址<a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a>来安装 VSCode</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[夜深人静肝物理]]></title>
         <id>https://steven-zyc.github.io//post/ye-shen-ren-jing-gan-wu-li</id>
