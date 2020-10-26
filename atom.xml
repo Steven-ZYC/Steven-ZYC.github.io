@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://steven-zyc.github.io/</id>
     <title>张彦诚的blog</title>
-    <updated>2020-07-23T04:55:02.871Z</updated>
+    <updated>2020-10-26T10:58:34.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://steven-zyc.github.io/"/>
     <link rel="self" href="https://steven-zyc.github.io/atom.xml"/>
@@ -10,6 +10,14 @@
     <logo>https://steven-zyc.github.io/images/avatar.png</logo>
     <icon>https://steven-zyc.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 张彦诚的blog</rights>
+    <entry>
+        <title type="html"><![CDATA[视频]]></title>
+        <id>https://steven-zyc.github.io/post/shi-pin/</id>
+        <link href="https://steven-zyc.github.io/post/shi-pin/">
+        </link>
+        <updated>2020-10-26T10:58:04.000Z</updated>
+        <content type="html"><![CDATA[<iframe src="//player.bilibili.com/player.html?aid=415030427&bvid=BV1GV411y7Sr&cid=249731805&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[铭记]]></title>
         <id>https://steven-zyc.github.io/post/ming-ji/</id>
